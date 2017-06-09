@@ -43,8 +43,8 @@ public class MentalistaController {
 	// feis que aquest metode es cridi just creat el component
 	public void inicia() {
 		intents.clear();
-		//numero = random.nextInt(10) + 1;
-		numero=5;
+		numero = random.nextInt(10) + 1;
+		//numero=5;
 		
 	}
 
